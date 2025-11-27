@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm not using github anymore, you can find me on [codeberg.org/nougcat](https://codeberg.org/nougcat), free and open source alternative to github, that [respects you](https://sfconservancy.org/GiveUpGitHub/)
+
+If you're job recruiter, you might want to take a look at:
+- [Game of chińczyk (man don't get angry)](https://codeberg.org/nougcat/man-dont-get-angry)
+- [Urban edge](https://github.com/7PhantomRider/UrbanEdge), is a project that simulates travel through the city of Wrocław and compares the speeds of bicycle versus car travel.
+
 <!--
 **nougcat/nougcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
